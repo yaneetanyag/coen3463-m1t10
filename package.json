@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "yaneetanyag",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaneetanyag/myapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yaneetanyag/myapp/issues"
+  },
+  "homepage": "https://github.com/yaneetanyag/myapp#readme",
+  "description": ""
+}
